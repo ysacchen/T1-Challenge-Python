@@ -1,0 +1,6 @@
+GEFILI1, General Filipino, [ ], 3, 45
+   11826428
+GEFILI2, general filipino 2, [ GEFILI1 ], 3, 45
+GEFTWEL, general fitness, [ ], 1, 50
+   11826428
+GEDANCE, general dancing, [ ], 1, 45
